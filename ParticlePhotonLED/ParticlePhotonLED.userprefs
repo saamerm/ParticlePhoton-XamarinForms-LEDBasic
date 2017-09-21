@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{DC060C49-C01E-447A-AE7B-50D4BF3B0D3B}|Default">
   <MonoDevelop.Ide.ItemProperties.ParticlePhotonLED.Droid PreferredExecutionTarget="Android.Android_Accelerated_x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ParticlePhotonLED/LedModel.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParticlePhotonLED/ParticlePhotonLED.cs">
     <Files>
-      <File FileName="ParticlePhotonLED/ParticlePhotonLED.cs" Line="27" Column="37" />
+      <File FileName="ParticlePhotonLED/ParticlePhotonLED.cs" Line="19" Column="4" />
       <File FileName="iOS/Main.cs" Line="16" Column="19" />
-      <File FileName="ParticlePhotonLED/LedModel.cs" Line="6" Column="9" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
-      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="22" column="1" />
-      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="41" column="1" />
-      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="42" column="10" />
-      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="31" column="1" />
+      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="21" column="1" />
+      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="21" column="1" />
+      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="21" column="10" />
+      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="21" column="1" />
+      <Breakpoint file="/Users/saamerm/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/ParticlePhotonLED/ParticlePhotonLED.cs" relfile="ParticlePhotonLED/ParticlePhotonLED.cs" line="60" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />

@@ -16,35 +16,7 @@ namespace ParticlePhotonLED
 			var ChangeLedCommandOff = new Command<string>(ledOff);
             var onButton = new Button{ Text = "ON", Command=ChangeLedCommandOn };
             var offButton = new Button { Text = "OFF", Command=ChangeLedCommandOff };
-			//onButton.Clicked += ChangeLed("on");
-            //offButton.Clicked += ChangeLed(this, onButton.Text);
-   //         onButton.Clicked += async (sender, e) => {
-			//	HttpClient client = new HttpClient();
-   //             //client.DefaultRequestHeaders.Add("args", "on");
-   //             var jObject = "{\"args\":\"on\"}";
-			//	var uri = "https://api.particle.io/v1/devices/28003d001847343338333633/led?access_token=e54ec36b6b139319129d8cd075cb88f095a9dce7";
-   //             var model = new LedModel(){args="on"};
-   //             var stringContent = new StringContent(JsonConvert.SerializeObject(model), Encoding.UTF8, "application/json");
-			//	//var stringContent = new StringContent(jObject.ToString());
-			//	try
-   //             {
-			//		var response = await client.PostAsync(uri, stringContent);
-			//		//string obstring = await client.PostAsync(uri,);
-			//	}
-   //             catch (Exception ex)
-   //             {
-   //                 var z = 0;
-   //             }
-			//	//string obstring = await client.GetStringAsync(uri);
-			//	//RootObject weatherlist = JsonConvert.DeserializeObject<RootObject>(obstring);
-			//	////weatherText.Text = "Here's the city" + weatherlist.name;
-			//	////Complicating a little more
-			//	//var weather1 = new Weather();
-			//	//weatherlist.weather.Add(weather1);
-			//	//weatherText.Text = "Looks like there is a " + weatherlist.weather[0].description + " in " + weatherlist.name;
-			//	var x = 5;
-			//	var y = 5;
-			//};
+			
 			// The root page of your application
 			var content = new ContentPage
             {
