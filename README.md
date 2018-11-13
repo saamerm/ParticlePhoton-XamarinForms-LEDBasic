@@ -29,4 +29,5 @@ In the ParticlePhotonLED.cs file, change the UserID and AccessToken to what you 
 ## 4. Doesnt work?
 Email me at i@saamer.me
 
-
+## 5. Bonus
+Control the device with an Android watch! :) https://github.com/saamerm/Xamarin.Android-Wear-2.0-IpInfo-Rest-Api-Get
