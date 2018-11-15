@@ -17,7 +17,9 @@ A particle photon, but I'm sure it will work for Particle Core, Particle Electro
 Once you have set up the device and claimed it to your account, go to build.particle and login with the account. 
 
 ### 3.2 What code do I put on the Microcontroller
-Put in the code from Blink an Led-Setup on this page https://docs.particle.io/guide/getting-started/examples/photon/#blink-an-led and upload it to your device
+Put in the code from MicroControllerCode.cpp file in this directory, into the Particle Build Web IDE.
+
+It was taken from "Blink an Led-Setup" on this page https://docs.particle.io/guide/getting-started/examples/photon/#blink-an-led and upload it to your device
 
 ### 3.3 How do I know that I set up the  correctly
 Follow instructions in the docs website above, or you can go to this codepen and change the UserID and AccessToken https://codepen.io/saamerm/pen/GMqWej and try to change the LED status to on. If the light goes on, you're in business.
