@@ -5,7 +5,7 @@
   <uses-permission android:name="android.permission.INTERNET" />
   <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
   <application android:label="ParticlePhotonLED" android:name="android.app.Application" android:allowBackup="true" android:icon="@drawable/icon" android:debuggable="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="ParticlePhotonLED.Droid" android:theme="@style/MyTheme" android:name="md53ab6e98c11a46aac0101136247f3fa1b.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="ParticlePhotonLED.Droid" android:theme="@style/MyTheme" android:name="md5776d9ce18e89e2316b35bbc27d4ffb2d.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />

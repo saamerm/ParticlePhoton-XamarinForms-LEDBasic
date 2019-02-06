@@ -13,15 +13,15 @@ public class ShareActionProvider_OnShareTargetSelectedListenerImplementor
 		__md_methods = 
 			"n_onShareTargetSelected:(Landroid/support/v7/widget/ShareActionProvider;Landroid/content/Intent;)Z:GetOnShareTargetSelected_Landroid_support_v7_widget_ShareActionProvider_Landroid_content_Intent_Handler:Android.Support.V7.Widget.ShareActionProvider/IOnShareTargetSelectedListenerInvoker, Xamarin.Android.Support.v7.AppCompat\n" +
 			"";
-		mono.android.Runtime.register ("Android.Support.V7.Widget.ShareActionProvider+IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", ShareActionProvider_OnShareTargetSelectedListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Support.V7.Widget.ShareActionProvider+IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat", ShareActionProvider_OnShareTargetSelectedListenerImplementor.class, __md_methods);
 	}
 
 
-	public ShareActionProvider_OnShareTargetSelectedListenerImplementor () throws java.lang.Throwable
+	public ShareActionProvider_OnShareTargetSelectedListenerImplementor ()
 	{
 		super ();
 		if (getClass () == ShareActionProvider_OnShareTargetSelectedListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Support.V7.Widget.ShareActionProvider+IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Support.V7.Widget.ShareActionProvider+IOnShareTargetSelectedListenerImplementor, Xamarin.Android.Support.v7.AppCompat", "", this, new java.lang.Object[] {  });
 	}
 
 

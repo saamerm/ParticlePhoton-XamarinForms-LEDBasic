@@ -13,15 +13,15 @@ public class NestedScrollView_OnScrollChangeListenerImplementor
 		__md_methods = 
 			"n_onScrollChange:(Landroid/support/v4/widget/NestedScrollView;IIII)V:GetOnScrollChange_Landroid_support_v4_widget_NestedScrollView_IIIIHandler:Android.Support.V4.Widget.NestedScrollView/IOnScrollChangeListenerInvoker, Xamarin.Android.Support.v4\n" +
 			"";
-		mono.android.Runtime.register ("Android.Support.V4.Widget.NestedScrollView+IOnScrollChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", NestedScrollView_OnScrollChangeListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Support.V4.Widget.NestedScrollView+IOnScrollChangeListenerImplementor, Xamarin.Android.Support.v4", NestedScrollView_OnScrollChangeListenerImplementor.class, __md_methods);
 	}
 
 
-	public NestedScrollView_OnScrollChangeListenerImplementor () throws java.lang.Throwable
+	public NestedScrollView_OnScrollChangeListenerImplementor ()
 	{
 		super ();
 		if (getClass () == NestedScrollView_OnScrollChangeListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Support.V4.Widget.NestedScrollView+IOnScrollChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Support.V4.Widget.NestedScrollView+IOnScrollChangeListenerImplementor, Xamarin.Android.Support.v4", "", this, new java.lang.Object[] {  });
 	}
 
 

@@ -13,15 +13,15 @@ public class FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor
 		__md_methods = 
 			"n_onFitSystemWindows:(Landroid/graphics/Rect;)V:GetOnFitSystemWindows_Landroid_graphics_Rect_Handler:Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerInvoker, Xamarin.Android.Support.v7.AppCompat\n" +
 			"";
-		mono.android.Runtime.register ("Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor, Xamarin.Android.Support.v7.AppCompat", FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.class, __md_methods);
 	}
 
 
-	public FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor () throws java.lang.Throwable
+	public FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor ()
 	{
 		super ();
 		if (getClass () == FitWindowsViewGroup_OnFitSystemWindowsListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Support.V7.Widget.IFitWindowsViewGroupOnFitSystemWindowsListenerImplementor, Xamarin.Android.Support.v7.AppCompat", "", this, new java.lang.Object[] {  });
 	}
 
 

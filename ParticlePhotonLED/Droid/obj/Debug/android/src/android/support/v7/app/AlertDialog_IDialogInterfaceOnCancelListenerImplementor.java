@@ -13,15 +13,15 @@ public class AlertDialog_IDialogInterfaceOnCancelListenerImplementor
 		__md_methods = 
 			"n_onCancel:(Landroid/content/DialogInterface;)V:GetOnCancel_Landroid_content_DialogInterface_Handler:Android.Content.IDialogInterfaceOnCancelListenerInvoker, Mono.Android, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null\n" +
 			"";
-		mono.android.Runtime.register ("Android.Support.V7.App.AlertDialog+IDialogInterfaceOnCancelListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", AlertDialog_IDialogInterfaceOnCancelListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Support.V7.App.AlertDialog+IDialogInterfaceOnCancelListenerImplementor, Xamarin.Android.Support.v7.AppCompat", AlertDialog_IDialogInterfaceOnCancelListenerImplementor.class, __md_methods);
 	}
 
 
-	public AlertDialog_IDialogInterfaceOnCancelListenerImplementor () throws java.lang.Throwable
+	public AlertDialog_IDialogInterfaceOnCancelListenerImplementor ()
 	{
 		super ();
 		if (getClass () == AlertDialog_IDialogInterfaceOnCancelListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Support.V7.App.AlertDialog+IDialogInterfaceOnCancelListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Support.V7.App.AlertDialog+IDialogInterfaceOnCancelListenerImplementor, Xamarin.Android.Support.v7.AppCompat", "", this, new java.lang.Object[] {  });
 	}
 
 

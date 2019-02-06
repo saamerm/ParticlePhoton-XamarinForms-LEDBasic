@@ -1,0 +1,35 @@
+Function=xamarin_timezone_get_data
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_GetFolderPath
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_log
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/mscorlib.dll
+Function=xamarin_find_protocol_wrapper_type
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_release_block_on_main_thread
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_get_block_descriptor
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSend_IntPtr
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_IntPtr_objc_msgSendSuper_IntPtr
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=UIApplicationMain
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/Xamarin.iOS.dll
+Function=xamarin_start_wwan
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=CreateZStream
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=CloseZStream
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=Flush
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=ReadZStream
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=WriteZStream
+	/Users/saamer.mansoor/Documents/GitHub/ParticlePhoton-XamarinForms-LEDBasic/ParticlePhotonLED/iOS/obj/iPhoneSimulator/Debug/device-builds/iphone11.4-12.1/mtouch-cache/1-Link/System.dll
+Function=mono_pmip
+Function=xamarin_dyn_objc_msgSend
+Function=xamarin_dyn_objc_msgSendSuper
+Function=xamarin_dyn_objc_msgSend_stret
+Function=xamarin_dyn_objc_msgSendSuper_stret

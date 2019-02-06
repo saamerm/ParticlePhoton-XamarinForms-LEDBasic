@@ -13,15 +13,15 @@ public class Loader_OnLoadCompleteListenerImplementor
 		__md_methods = 
 			"n_onLoadComplete:(Landroid/support/v4/content/Loader;Ljava/lang/Object;)V:GetOnLoadComplete_Landroid_support_v4_content_Loader_Ljava_lang_Object_Handler:Android.Support.V4.Content.Loader/IOnLoadCompleteListenerInvoker, Xamarin.Android.Support.v4\n" +
 			"";
-		mono.android.Runtime.register ("Android.Support.V4.Content.Loader+IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", Loader_OnLoadCompleteListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Support.V4.Content.Loader+IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4", Loader_OnLoadCompleteListenerImplementor.class, __md_methods);
 	}
 
 
-	public Loader_OnLoadCompleteListenerImplementor () throws java.lang.Throwable
+	public Loader_OnLoadCompleteListenerImplementor ()
 	{
 		super ();
 		if (getClass () == Loader_OnLoadCompleteListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Support.V4.Content.Loader+IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Support.V4.Content.Loader+IOnLoadCompleteListenerImplementor, Xamarin.Android.Support.v4", "", this, new java.lang.Object[] {  });
 	}
 
 

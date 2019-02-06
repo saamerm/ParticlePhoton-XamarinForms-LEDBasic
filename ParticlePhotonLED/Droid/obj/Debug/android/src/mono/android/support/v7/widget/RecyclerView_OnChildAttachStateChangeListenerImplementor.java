@@ -14,15 +14,15 @@ public class RecyclerView_OnChildAttachStateChangeListenerImplementor
 			"n_onChildViewAttachedToWindow:(Landroid/view/View;)V:GetOnChildViewAttachedToWindow_Landroid_view_View_Handler:Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerInvoker, Xamarin.Android.Support.v7.RecyclerView\n" +
 			"n_onChildViewDetachedFromWindow:(Landroid/view/View;)V:GetOnChildViewDetachedFromWindow_Landroid_view_View_Handler:Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerInvoker, Xamarin.Android.Support.v7.RecyclerView\n" +
 			"";
-		mono.android.Runtime.register ("Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", RecyclerView_OnChildAttachStateChangeListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView", RecyclerView_OnChildAttachStateChangeListenerImplementor.class, __md_methods);
 	}
 
 
-	public RecyclerView_OnChildAttachStateChangeListenerImplementor () throws java.lang.Throwable
+	public RecyclerView_OnChildAttachStateChangeListenerImplementor ()
 	{
 		super ();
 		if (getClass () == RecyclerView_OnChildAttachStateChangeListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView", "", this, new java.lang.Object[] {  });
 	}
 
 

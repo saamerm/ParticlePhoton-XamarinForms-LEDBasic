@@ -13,15 +13,15 @@ public class ActionBar_OnMenuVisibilityListenerImplementor
 		__md_methods = 
 			"n_onMenuVisibilityChanged:(Z)V:GetOnMenuVisibilityChanged_ZHandler:Android.Support.V7.App.ActionBar/IOnMenuVisibilityListenerInvoker, Xamarin.Android.Support.v7.AppCompat\n" +
 			"";
-		mono.android.Runtime.register ("Android.Support.V7.App.ActionBar+IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", ActionBar_OnMenuVisibilityListenerImplementor.class, __md_methods);
+		mono.android.Runtime.register ("Android.Support.V7.App.ActionBar+IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat", ActionBar_OnMenuVisibilityListenerImplementor.class, __md_methods);
 	}
 
 
-	public ActionBar_OnMenuVisibilityListenerImplementor () throws java.lang.Throwable
+	public ActionBar_OnMenuVisibilityListenerImplementor ()
 	{
 		super ();
 		if (getClass () == ActionBar_OnMenuVisibilityListenerImplementor.class)
-			mono.android.TypeManager.Activate ("Android.Support.V7.App.ActionBar+IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "", this, new java.lang.Object[] {  });
+			mono.android.TypeManager.Activate ("Android.Support.V7.App.ActionBar+IOnMenuVisibilityListenerImplementor, Xamarin.Android.Support.v7.AppCompat", "", this, new java.lang.Object[] {  });
 	}
 
 
